@@ -6,7 +6,16 @@ Deployment of a microservices-based application using modern tools, pivoting on 
 The Socks Shop application is a microservices-based e-commerce platform used to showcase modern cloud-native technologies. It features various microservices for functions like product catalog, shopping cart, and user authentication, and is designed for scalability, resilience, and fault tolerance, making it suitable for Kubernetes deployment.
 
 The project entails deploying the Socks Shop application on a Kubernetes cluster using Infrastructure as Code (IaC). This includes provisioning AWS infrastructure with Terraform, setting up a deployment pipeline with GitHub Actions, managing containers with Kubernetes, using Helm for package management, monitoring with Prometheus, logging with the ELK Stack, and ensuring security with Ansible.
-## H2
+
+## The basic components of the project include (in no particular order):
+
+1. Provisioning of requisite infrastructure
+2. Deployment pipeline
+3. Monitoring
+4. Logging
+5. Security
+
+
 ### H3
 
 ### Bold
