@@ -16,7 +16,19 @@ The project entails deploying the Socks Shop application on a Kubernetes cluster
 5. Security
 
 
-### H3
+## Project Requirements:
+
+- A cloud Service Provider (AWS,GCP, Microsoft Azure, etc)
+- A code editor/Terminal(e.g gitbash)
+- Terraform
+- Prometheus
+- Grafana
+- Helm
+- Kubernetes
+- ELK Stack
+- Lets encrypt
+- The socks shop application repository
+
 
 ### Bold
 
