@@ -30,6 +30,11 @@ The project entails deploying the Socks Shop application on a Kubernetes cluster
 - The socks shop application repository
 
 
+## Project File Structure:
+Below is an organogram of the file structure for the project.
+
+ 
+
 ### Bold
 
 **bold text**
